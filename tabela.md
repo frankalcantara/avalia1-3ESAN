@@ -1,2 +1,2 @@
 | Nome | RA |
-|Guilherme Szimzek|2026109288|
+|Guilherme Borges Szimzek|2026109288|
