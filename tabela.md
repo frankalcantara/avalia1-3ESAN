@@ -1,3 +1,3 @@
 | Nome | RA |
 |:---|:---|
-| Giovanne Antônio Brambila | 2026108362 |
+|Giovanne Antônio Brambila|2026108362|
