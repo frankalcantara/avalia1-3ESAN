@@ -1,3 +1,3 @@
 | Nome | RA |
 |:---|:---|
-| Bruno Kenyu Ochiai | 2026005370 |
+| Bruno Kenyu Ochiai (Aluno 2 )| 2026005370 |
